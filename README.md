@@ -3,7 +3,8 @@ A decentralized privacy protection system.
 
 There are 1024 activation codes in total, and the total amount is fixed. In the following json data key-value, "code" corresponds to the activation code. I didn't keep the encryption key, so I'm the same as you.
 
- "data": [
+```json
+"data": [
     {
       "id": 0,
       "code": "L9TOF0Zsj8SsYIOZmvKZLcPSWIAt4fX1+Zq9U+x/VoWreNxBYBekZAdhNylC/EVBLSLAKnls/w5zWtv4cd6E3dTc1vca+teq6sKjjNA6SnF+OSps28cvDXcyyFL1KDHW/y6kpr75OQKtgUHcmRazEkO693240n4SxSm8BvoZVgE=",
@@ -8199,4 +8200,5 @@ There are 1024 activation codes in total, and the total amount is fixed. In the 
   ],
   "timestamp": 1683882261698
 }
+```
 
